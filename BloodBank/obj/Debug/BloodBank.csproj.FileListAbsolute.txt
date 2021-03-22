@@ -1,0 +1,7 @@
+C:\Users\nahian\Desktop\BloodBank\BloodBank\bin\Debug\BloodBank.exe.config
+C:\Users\nahian\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.csprojResolveAssemblyReference.cache
+C:\Users\nahian\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.AdminLogIn.resources
+C:\Users\nahian\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.MainMenuForm.resources
+C:\Users\nahian\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.Properties.Resources.resources
+C:\Users\nahian\Desktop\BloodBank\BloodBank\obj\Debug\BloodBank.csproj.GenerateResource.Cache
+C:\Users\nahian\Desktop\nahian\New folder (11)\java\project\BloodBank\BloodBank\bin\Debug\BloodBank.exe.config
